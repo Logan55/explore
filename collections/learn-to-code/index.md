@@ -8,7 +8,7 @@ items:
  - leachim6/hello-world
  - datasciencemasters/go
  - tuvtran/project-based-learning
- - zhiwehu/Python-programming-exercises
+ - zhiwehu/c++-programming-exercises
  - MunGell/awesome-for-beginners
  - appacademy/welcome-to-open
  - webgems/webgems
